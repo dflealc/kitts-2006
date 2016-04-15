@@ -2,7 +2,7 @@
 globals
 [
  ;;; Variables/parameters used in the original model:
-
+;
  g       ;-->   parameter representing the benefit created for each n peers who work
  c       ;-->   parameter representing the cost of working for the collective good
  enf     ;-->   constant cost of enforcement ("e" in the paper)
